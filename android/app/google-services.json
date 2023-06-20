@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743009389410",
+    "project_id": "autism-perdiction-app",
+    "storage_bucket": "autism-perdiction-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743009389410:android:e55bbc9ccc4974a02bfa3b",
+        "android_client_info": {
+          "package_name": "com.autism.perdiction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743009389410-3hs20hgtg4h2m8pta56qsa2ot6ke62nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcRdaQnsx_d-GWHZKYsKWxQ_iKszwYzRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743009389410-3hs20hgtg4h2m8pta56qsa2ot6ke62nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
